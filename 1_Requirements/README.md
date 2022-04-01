@@ -29,6 +29,10 @@ This system is effective, saves time of management. Thus, it saves organization 
 
 ## SWOT Analysis:
 
+![SWOT](https://user-images.githubusercontent.com/101341682/161293253-66ce1099-02a4-425c-9dd1-884ca78bbcca.png)
+
+
+
 ## 4W's and 1'H
 
 ## Who:
