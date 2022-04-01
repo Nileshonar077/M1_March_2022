@@ -45,7 +45,6 @@ modules C lectures
 
 [![Valgrind](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Valgrind.yml)
 
-[![Cpp check](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Cpp%20check.yml/badge.svg)](https://github.com/pavankumar2266/M1_Banking_management_system_Util/actions/workflows/Cpp%20check.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/pavankumar2266/M1_Banking_management_system_app/actions/workflows/check.yml/badge.svg)](https://github.com/pavankumar2266/M1_Banking_management_system_app/actions/workflows/check.yml)
 
