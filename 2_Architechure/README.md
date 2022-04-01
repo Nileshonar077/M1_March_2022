@@ -1,4 +1,6 @@
 ## Flowchart of Banking mangement system:
+![Flowchart](https://user-images.githubusercontent.com/101341682/161296159-270c94ae-93a3-4c28-90a1-df7213c761b4.png)
+
 
 ## Best methods to be followed:
 [1] Best Methods Followed
