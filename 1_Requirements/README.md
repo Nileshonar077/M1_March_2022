@@ -20,6 +20,8 @@ Banking Management System enables the customer details and Banking details as in
 This system is effective, saves time of management. Thus, it saves organization resources and expenses.
 
 ## Defining System:-
+![Defining System](https://user-images.githubusercontent.com/101341682/161292465-3f99c245-01a6-4d03-bc5a-1305aac9369d.png)
+
 
 ## Explanation:-
 ## Banking Management has some features.
